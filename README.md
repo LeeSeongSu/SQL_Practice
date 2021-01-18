@@ -1,2 +1,2 @@
 # SQL_Practice
-SQL Practice
+SQL Practice with Oracle
